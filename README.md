@@ -1,4 +1,6 @@
-#Address book in Ruby
-##Epicodus bootcamp exercise
-This is an exercise to learn classes in Ruby
-Pairs = Brentwood and John
+Address Book in Ruby
+======================
+
+This is a command line application built entirely in ruby.
+
+this application was a lesson to understand objects and creating simple relationships between them.
